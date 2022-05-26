@@ -13,13 +13,13 @@ What things you need to install the software and how to install them :
 1. Clone the git repository
 
    ```bash
-   git clone https://github.com/ysp0lur/api-test-uful
+   git clone https://github.com/ysp0lur/uful-test-api
    ```
 
 1. Go into the project directory
 
    ```bash
-   cd api-test-uful/
+   cd uful-test-api/
    ```
 
 1. Checkout working branch
